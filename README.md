@@ -1,32 +1,34 @@
 # Ineuron-Internship-project -Heart-Disease-Prediction-Analysis
-## Objective 🎯
+### Objective 🎯
 - The goal of this project is to analyse the heart disease occurrence, based on a combination of features that describes the heart disease.
 
-Poblem Statement ❓
+### Poblem Statement ❓
 - Health is real wealth in the pandemic time we all realized the brute effects of covid 19 on all irrespective of any status. You are required to analyse this health and medical data for better future preparation.
 
-Dataset 📀
+### Dataset 📀
 - https://drive.google.com/drive/folders/1M5z7z1NmWar7y1eFs67orfjqHL0iSViL
 
-Technology �
+### Technology �
 Business Intelligence
 
-Domain 🏥
+### Domain 🏥
 Healthcare
 
-Project Difficulty level 🥇
+### Project Difficulty level 🥇
 - Intermediate
 
-Programming Language 🐍
+### Programming Language 🐍
 Python
 
-Tools 🛠
+### Tools 🛠
 Jupyter Notebook, MS Excel, Tableau
 
-Tableau Public Dashboard link 
+### Tableau Public Dashboard link 
 - https://rb.gy/h84uiw
 
-- 
+###  Youtube link 
+
+### Linkedin link- 
 
 # Conclusion:
 
