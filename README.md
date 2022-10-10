@@ -26,9 +26,8 @@ Jupyter Notebook, MS Excel, Tableau
 ### Tableau Public Dashboard link 
 - https://rb.gy/h84uiw
 
-###  Youtube link 
-
 ### Linkedin link- 
+- https://urlzs.com/bg7f9
 
 # Conclusion:
 
@@ -75,7 +74,7 @@ BLOOD PRESSURE
 - People who have HIGH BLOOD PRESSURE are suffering from ASYPTOMATIC CHEST PAIN
 
 HEART RATE
-- The HEART RATE started decreasing at the 50 onwords
+- The HEART RATE started decreasing at the age 50 onwords
 - With age cholestrol level and BP increases and Heart Rate decreases.
 - People who are likely to suffer from heart disease have higher maximum heart rates( rate between 140-160) whereas patients who are not likely to suffer from heart disease are having lower maximum heart rates.
 
